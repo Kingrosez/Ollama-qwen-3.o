@@ -1,0 +1,12 @@
+{
+  "format" : "ollama-model-manager-package",
+  "model" : "qwen3-0.6b",
+  "packageFile" : "qwen3-0.6b.ollamapkg",
+  "packageSha256" : "1370c8ebbd031af5ef6c2a08b97f339e3f9f6f37e71d99f9f23b81f27065d9bf",
+  "packageSizeBytes" : 522658603,
+  "totalChunks" : 50,
+  "manifestPath" : "chunk-manifest.json",
+  "partsDirectory" : "parts/",
+  "repository" : "Ollama-qwen-3.o",
+  "branch" : "main"
+}
